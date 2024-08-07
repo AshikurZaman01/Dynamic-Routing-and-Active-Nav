@@ -1,0 +1,38 @@
+[
+    {
+        "area_name": "Khulna",
+        "city_name": "Khulna",
+        "latitude": 22.815774,
+        "longitude": 89.568679
+    },
+    {
+        "area_name": "Barishal",
+        "city_name": "Barishal",
+        "latitude": 22.7010,
+        "longitude": 90.3535
+    },
+    {
+        "area_name": "Rajshahi",
+        "city_name": "Rajshahi",
+        "latitude": 24.3745,
+        "longitude": 88.6042
+    },
+    {
+        "area_name": "Dhaka",
+        "city_name": "Dhaka",
+        "latitude": 23.8103,
+        "longitude": 90.4125
+    },
+    {
+        "area_name": "Cumilla",
+        "city_name": "Cumilla",
+        "latitude": 23.4683,
+        "longitude": 91.1782
+    },
+    {
+        "area_name": "Chittagong",
+        "city_name": "Chittagong",
+        "latitude": 22.3569,
+        "longitude": 91.7832
+    }
+]
